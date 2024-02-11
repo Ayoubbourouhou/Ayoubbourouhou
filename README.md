@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**Ayoubbourouhou/Ayoubbourouhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+![Cover Image](link_to_your_image.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Introduction
+Hello there! 👋 I'm Bourouhou Ayoub, a 22-year-old enthusiast passionate about Electrical Engineering and Embedded Systems. Currently, I'm in my fourth year at ENSA Khouribga, diving deep into the fascinating world of technology and innovation.
+
+## Skills
+- **Programming Languages:** Python, JAVA, C, C++, Shell Scripting (bash), Assembly
+- **Development Tools:** FLUTTER, MATLAB Simulink, Linux
+- **Hardware Programming:** STM32 Programming
+- **Design and Simulation:** Proteus, PSpice, Microwind, LabView
+- **Marketing:** B2B, B2C
+- **Graphic Design and Editing:** Adobe Illustrator, Canva, Vegas Pro
+
+## Education
+- **Degree:** Electrical Engineering and Embedded Systems
+- **Institution:** ENSA Khouribga
+- **Year:** Fourth Year
+
+Feel free to reach out for collaborations, discussions, or just to say hi! 😊
