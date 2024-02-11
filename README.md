@@ -2,7 +2,7 @@
 
 # About Me
 
-![Cover Image](link_to_your_image.jpg)
+![Cover Image](22_Large_Embedded_1.13.jpg)
 
 ## Introduction
 Hello there! 👋 I'm Bourouhou Ayoub, a 22-year-old enthusiast passionate about Electrical Engineering and Embedded Systems. Currently, I'm in my fourth year at ENSA Khouribga, diving deep into the fascinating world of technology and innovation.
